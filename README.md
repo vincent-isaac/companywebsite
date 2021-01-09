@@ -292,28 +292,26 @@ Publish the website in the given URL.
 {% endblock  %}
 ```
 ## OUTPUT:
-![output](./static/img/Image-5.jpg)
+![output](./static/img/Image-5.png)
 
-![output](./static/img/Image-6.jpg)
+![output](./static/img/Image-6.png)
 
-![output](./static/img/Image-6)
+![output](./static/img/Image-7.png)
 
-![output](./static/img/Image-7)
+![output](./static/img/Image-8.png)
 
-![output](./static/img/Image-8)
+![output](./static/img/Image-9.png)
 
-![output](./static/img/Image-9)
-
-![output](./static/img/Image-10)
+![output](./static/img/Image-10.png)
 
 ## CODE VALIDATION REPORT:
-![output](./static/img/Image-1.jpg)
+![output](./static/img/Image-1.png)
 
-![output](./static/img/Image-2.jpg)
+![output](./static/img/Image-2.png)
 
-![output](./static/img/Image-3)
+![output](./static/img/Image-3.png)
 
-![output](./static/img/Image-4)
+![output](./static/img/Image-4.png)
 
 ## RESULT:
 Thus a website is designed for the chip manufacturing company and is hosted in the URL http://vincent.student.saveetha.in:8000/. HTML code is validated.
